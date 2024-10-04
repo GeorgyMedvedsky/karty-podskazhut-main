@@ -1,7 +1,7 @@
 # Карты подскажут
 
 Небольшая статья с возможностью переключения темы со светлой на темную и наоборот
-[Ссылка на gh-pages](https://georgymedvedsky.github.io/mesto-project-ff/)
+[Ссылка на gh-pages](https://georgymedvedsky.github.io/karty-podskazhut-main/)
 
 ## Функции
 
